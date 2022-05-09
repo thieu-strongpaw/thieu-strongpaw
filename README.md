@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thieu-strongpaw
 - 👀 I’m interested in just learning the basics of coding using the python language so I can start a career that challenges my mind.
-- 🌱 I’m currently learning data analysis on freecodecamp.org but every day I make it a point to learn at least one thing, no matter how small.
+- 🌱 I’m currently learning HTML and CSS mostly because I would like to start my own blog but every day I make it a point to learn at least one thing, no matter how small. I do make sure to keep up on my python skills because that is the coding language I started with. 
 - 📫 How to reach me strongpawcoding@gmail.com is the best way to find me.
 
 - Over the next few days I am going to dump a lot of the projects on here that I have been working on and learning from in anticipation of potential job opportunities. It dawned on me just this morning that this is the best way to show off my accomplishments, even if they are not perfect or finished. Rome, after all, was not built in a day. 
