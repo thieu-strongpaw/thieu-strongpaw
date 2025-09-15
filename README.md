@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thieu-strongpaw
-- 👀 I’m interested in learning more advanced coding so I can start a career that challenges my mind.
-- 🌱 Taking a look at data structures to fill in some gaps in my education.
+- 👋 Hi, I’m Thieu
+- 👀 I like the way computers go beep boop
+- 🌱 Why does everyone tell me to use a hash map? I'm unsure if it is just a meme at this point...
 - 📫 How to reach me strongpawcoding@gmail.com is the best way to find me.
 
 
